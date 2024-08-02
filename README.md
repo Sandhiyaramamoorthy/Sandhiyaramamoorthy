@@ -8,10 +8,3 @@
 - ⚡ Fun fact: I love to explore new data sets and uncover hidden insights that can drive impactful decisions!
 
 ---
-
-Feel free to customize any part of this to better fit your personal and professional details!
-
-<!---
-Sandhiyaramamoorthy/Sandhiyaramamoorthy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
